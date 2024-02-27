@@ -37,12 +37,20 @@ Then, you can run the script by typing the following command in your terminal:
 
 `python time_in_telegram_name.py`
 
+#
+
 The script will ask you to log in to your Telegram account using your phone number and a verification code. Once you are logged in, the script will run in the background and update your last name every minute with the current time in the following font:
 
 `𝟎𝟏:𝟐𝟑`
 
+#
+
 You can change the font by modifying the font dictionary in the script. You can also change the time format by modifying the strftime argument in the script.
 
 To stop the script, press `Ctrl+C` in your terminal.
+
+## License
+
+
 
 
