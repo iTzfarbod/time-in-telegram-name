@@ -51,6 +51,8 @@ To stop the script, press `Ctrl+C` in your terminal.
 
 ## License
 
+For use my code read the `License.md` file.
+
 
 
 
