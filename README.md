@@ -35,7 +35,9 @@ API_HASH=Your_API_HASH`
 
 Then, you can run the script by typing the following command in your terminal:
 
-`python time_in_telegram_name.py`
+```powershell
+python time_in_telegram_name.py
+```
 
 #
 
