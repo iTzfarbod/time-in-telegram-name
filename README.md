@@ -8,7 +8,7 @@ If you plan to use this template to make your own template or bot, you have to:
 
 Before requesting support, you should know that this code requires you to have at least a basic knowledge of Python and the library is made for advanced users. Do not use this code if you don't know the basics or some advanced topics such as API or pyrogram module. Here's a link for resources to [Learn pyrogram](https://docs.pyrogram.org/).
 
-If you need some help for something, do not hesitate to [Email](farbod.habibzadegan1390@gmail.com) me 
+If you need some help for something, do not hesitate to [Email](https://mail.google.com/mail/u/?authuser=farbod.habibzadegan1390@gmail.com) me 
 
 ## Installation
 
